@@ -4,5 +4,11 @@ Hi 😃
 My name is Emil Privér. Sotfware developer at @rivercodeab in Borås. Creating cool stuffs 🤘
 
 Website: https://priver.dev
+
 Instagram: https://instagram.com/emil_priver/
+
 Twitter: https://twitter.com/emil_priver
+
+Also love rick and morty 😄
+
+> I'm a scientist; because I invent, transform, create, and destroy for a living, and when I don't like something about the world, I change it. - Pickle Rick
