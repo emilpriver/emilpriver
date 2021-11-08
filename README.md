@@ -3,9 +3,11 @@
 Hi 😃 
 My name is Emil Privér. Sotfware developer at @rivercodeab in Borås. Creating cool stuffs 🤘
 
-Website: https://emilpriver.com
+Website: https://priver.se
 
 Instagram: https://instagram.com/emil_priver/
+
+Linkedin: https://www.linkedin.com/in/emilpriver/
 
 Twitter: https://twitter.com/emil_priver
 
