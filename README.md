@@ -14,3 +14,6 @@ Twitter: https://twitter.com/emil_priver
 Also love rick and morty 😄
 
 > I'm a scientist; because I invent, transform, create, and destroy for a living, and when I don't like something about the world, I change it. - Pickle Rick
+
+
+<a href="https://app.daily.dev/emilpriver"><img src="https://api.daily.dev/devcards/c367dd14fea447c3b06cba3a909225a8.png?r=n6u" width="400" alt="Emil Priver's Dev Card"/></a>
