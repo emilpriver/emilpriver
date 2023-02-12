@@ -3,7 +3,7 @@
 Hi 😃 
 My name is Emil Privér. Sotfware developer at @Zimpler in Gothenburg. Creating cool stuffs 🤘
 
-Website: https://priver.se
+Website: https://priver.dev
 
 Instagram: https://instagram.com/emil_priver/
 
