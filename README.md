@@ -1,4 +1,5 @@
-![GitHub Logo](https://cdn.sanity.io/images/ua83pq8w/production/b12b46af3f1e4de922e0383aaa41f38175538a1b-3840x2160.jpg?w=1920&format=auto)
+![giphy](https://user-images.githubusercontent.com/34039674/220747051-1b537acf-533a-4e20-8f3d-2162ed028be0.gif)
+
 
 Hi 😃 
 My name is Emil Privér. Sotfware developer at @Zimpler in Gothenburg. Creating cool stuffs 🤘
