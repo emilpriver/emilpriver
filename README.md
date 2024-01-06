@@ -1,7 +1,6 @@
 Hi 😃 
-My name is Emil Privér. Sotfware developer at @Zimpler in Gothenburg. Creating cool stuffs 🤘
+My name is Emil Privér, software engineer from Gothenburg, Sweden
 
 Website: https://priver.dev
-Instagram: https://instagram.com/emil_priver/
 Linkedin: https://www.linkedin.com/in/emilpriver/
 Twitter: https://twitter.com/emil_priver
